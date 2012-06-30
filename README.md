@@ -11,3 +11,5 @@ vimsetup/setup.sh
 
 #open vim 7.3
 :NeoBundleInstall
+=======
+五分でできるイマドキフツウなvim環境
