@@ -41,3 +41,4 @@ make -f make_unix.mak
 
 rm ${WORKSPACE}/command.list
 cd ${ORIGIN}
+vim -c "NeoBundleInstall"

@@ -11,6 +11,4 @@ git clone https://github.com/gong023/vimsetup.git
 
 vimsetup/setup.sh
 
-open vim 7.3
-
-:NeoBundleInstall
+close vim
