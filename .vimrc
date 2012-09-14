@@ -309,6 +309,9 @@ call unite#custom_action('file', 'my_vsplit', my_action)
 "vnoremap <C-a> <Home>
 "inoremap <C-e> <End>
 "inoremap <C-a> <Home>
+"nmap <F1> :only<CR>:q<CR>
+"nmap <F2> :se paste<CR>
+"nmap <F3> :se nopaste<CR>
 "
 "imap nn <Esc>
 "nmap ; : 

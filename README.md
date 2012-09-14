@@ -11,4 +11,3 @@ git clone https://github.com/gong023/vimsetup.git
 
 vimsetup/setup.sh
 
-close vim
